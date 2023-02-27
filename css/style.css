@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+
+/* General style rules for fonts and colors */
+body {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  background-color: lightgray;
+}
+h1, h2, h3 {
+  font-family: 'tilt wrap', sans-serif;
+  font-weight: bolder;
+}
+a{
+	text-decoration: none;
+}
+
+h3 {
+	text-align: center;
+	color: darkslategrey;
+	
+}
+
+h1 {
+	text-align: center;
+	color: darkgrey;
+}
+
+#start {
+	text-align: center;
+}
